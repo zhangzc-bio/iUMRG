@@ -1,6 +1,8 @@
-# iUMRG
-iUMRG: Multi-layered network-guided propagation modeling for the inference of susceptibility genes in uveal melanoma
+## iUMRG: Multi-layered network-guided propagation modeling for the inference of susceptibility genes in uveal melanoma
 
-iUMRG.r is a Rcode
+iUMRG
+## iUMRG.r is the R code of iUMRG.
 
-Multi_layered_network.txt and seed.txt are sample files
+## seed.txt is the list of experimentally supported known UM-related genes.
+
+## Multi_layered_network.txt is the heterogeneous network by by integrating known lncRNA-mRNA, miRNA-mRNA, miRNA-lncRNA, TF-target and protein-protein networks
