@@ -1,5 +1,5 @@
 # iUMRG
-iUMRG: Multi-layered network-guided propagation modeling
+iUMRG: Multi-layered network-guided propagation modeling for the inference of susceptibility genes in uveal melanoma
 
 iUMRG.r is a Rcode
 
